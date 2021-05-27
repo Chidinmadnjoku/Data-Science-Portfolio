@@ -1,5 +1,5 @@
 # Data-Science-Portfolio
-Compilation of Projects
+### Compilation of Projects
 
 ## Project 1: Applied Data Analysis and Visualization of Offences in the UK for 2014 and 2015 :Project Brief
 
