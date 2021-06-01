@@ -1,7 +1,7 @@
 # Data-Science-Portfolio
 ### Compilation of Projects
 
-## Project 1: Applied Data Analysis and Visualization of Offences in the UK for 2014 and 2015 :Project Brief
+## Project 1: Applied Data Analysis and Visualization of Offences in the UK for 2014 and 2015
 
 * Downloaded, refined and integrated datasets from a twenty-four month period of Crown Prosecution Service Case Outcomes by Principal Offence Categoryfrom the data.gov.uk website (link: https://data.gov.uk/dataset/89d0aef9-e2f9-4d1a-b779-5a33707c5f2c/crown-prosecution-service-case-outcomes-by-principal-offence-category-data).
 
